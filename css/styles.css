@@ -1,0 +1,228 @@
+html{
+    scroll-behavior: smooth;
+  }
+  
+  body{
+      margin: 0;
+      text-align: center;
+      font-family: 'Merriweather', serif;
+  }
+  
+  h1{
+    font-size: 4rem ;
+    margin-top: 100px;
+    font-family: 'Bad Script', cursive;
+    color: #66BFBF;
+    font-weight: bold;
+  }
+
+  .subtitle{
+    font-size: 1.5rem ;
+  }
+  
+  h2{
+    font-family: 'Bad Script', cursive;
+    color: #66BFBF;
+    font-weight: bold;
+  }
+  
+  h3{
+    font-family: 'Bad Script', cursive;
+    color: #66BFBF;
+  }
+
+  span{
+    font-family: 'Montserrat';
+  }
+
+  p{
+    font-family: 'Montserrat';
+  }
+
+  a{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    text-decoration: none;
+  }
+  
+  .education-detail a{
+    font-family: 'Montserrat';
+    text-decoration: none;
+    color: #66BFBF;
+  }
+
+  .education-detail a:hover{
+    font-family: 'Montserrat';
+    text-decoration: none;
+    color:black;
+  }
+  
+  
+  .cloud-1{
+    margin-top: 0px;
+  }
+  
+  .cloud-2{
+    margin-top: 0px;
+  }
+
+  .awan-1{
+    width: 30%;
+  }
+
+  .awan-2{
+    width: 35%;
+  }
+
+  .mountain{
+    margin-top: 0px;
+  }
+
+  .moun{
+    width: 50%;
+  }
+
+  .top-container{
+    background-color: #f0eee1;
+    padding-top: 50px;
+  }
+
+  .middle-container .profile img{
+      border-radius: 50%;
+      width: 200px;
+  }
+
+  .middle-container .profile{
+      margin-top: 100px;
+  }
+
+  .middle-container .profile .profile-detail{
+    width: 50%;
+    margin: 50px auto ;
+}
+
+  .skill-head{
+    margin: 50px 0;
+  }
+
+  .skill-head .col{
+    width: 30%;
+    margin: auto;
+  }
+
+  .education{
+    text-align: left;
+  }
+
+  .education-detail{
+    margin-top: 20px;
+  }
+
+  .project-card{
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .project-card h3 {
+    font-size:medium;
+  }
+
+
+  .card{
+    margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+  }
+  
+
+  .design-portfolio{
+    width: 50%;
+  }
+
+  .education-detail{
+    margin-bottom: 50px;
+  }
+
+  .frame{
+    width: 90%;
+    margin: 0 auto;
+  }
+
+
+
+.nav li {
+  display: inline;
+  margin: 20px;
+}
+
+.nav-atas{
+  margin-top: 10px;
+}
+
+.atas{
+  margin-top: 50px;
+}
+
+.bottom-container{
+  margin-top: 100px;
+  padding-top: 50px;
+  height: 120px;
+  background-color: #66BFBF;
+}
+
+.bottom-container a{
+  margin: 0 20px;
+  font-weight: bolder;
+}
+
+.bottom-container p{
+  color: #EAF6F6;
+}
+
+.contact-me{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.contact-me-btn {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 200px;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 0;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.contact-me-btn:hover {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+
+
+
